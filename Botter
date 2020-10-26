@@ -158,10 +158,8 @@ vidUrl = "YOUR_URL" #Change YOUR_URL to your Tik Tok video URL. This URL used to
 username = "YOUR_USERNAME" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
-tiktod = pyfiglet.figlet_format("TIKTOD V3", font="slant")
+tiktod = pyfiglet.figlet_format("TikBotter", font="slant")
 print(tiktod)
-print("Author: https://github.com/kangoka")
-print("")
 
 """
 You can change auto value below
